@@ -1,0 +1,26 @@
+.col{
+    display: flex;
+    height: 10vw;
+    width: 20vw;
+
+}
+.card{
+    height: 50vw;
+    width: 20vw;
+}
+.image-top{
+    height: 50vw;
+    width: 20vw;
+
+}
+.p{
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+}
+.container{
+    display: grid;
+    
+    grid-template-columns: 1fr 1fr 1fr; 
+}
